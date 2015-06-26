@@ -1,0 +1,10 @@
+{
+  "name": "farmpact",
+  "version": "0.0.0",
+  "description": "farmpact",
+  "main": "server.js",
+  "author": {
+    "name": "penans96",
+    "email": ""
+  }
+}
