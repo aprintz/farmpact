@@ -6,5 +6,9 @@
   "author": {
     "name": "penans96",
     "email": ""
+  },
+  "dependencies": {
+    "express": "^4.13.0",
+    "jade": "^1.11.0"
   }
 }
